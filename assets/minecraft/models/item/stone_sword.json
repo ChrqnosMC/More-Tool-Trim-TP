@@ -1,6 +1,8 @@
 {
   "parent": "minecraft:item/handheld",
-  "textures": "minecraft:item/stone_sword",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
   "overrides": [
     {
       "model": "more_tool_trim:item/stone_sword_sentry_and_quartz_trim",

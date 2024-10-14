@@ -1,6 +1,8 @@
 {
   "parent": "minecraft:item/handheld",
-  "textures": "minecraft:item/diamond_sword",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
   "overrides": [
     {
       "model": "more_tool_trim:item/diamond_sword_sentry_and_quartz_trim",
