@@ -1,0 +1,4110 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": "minecraft:item/stone_shovel",
+  "overrides": [
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_quartz_trim",
+      "predicate": {
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 19
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 20
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 21
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 22
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 23
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 24
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 25
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 26
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 27
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 28
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 29
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 30
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 31
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 32
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 33
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 34
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 35
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_iron_trim",
+      "predicate": {
+        "custom_model_data": 36
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 37
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 38
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 39
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 40
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 41
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 42
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 43
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 44
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 45
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 46
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 47
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 48
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 49
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 50
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 51
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 52
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 53
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_netherite_trim",
+      "predicate": {
+        "custom_model_data": 54
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 55
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 56
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 57
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 58
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 59
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 60
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 61
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 62
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 63
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 64
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 65
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 66
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 67
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 68
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 69
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 70
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 71
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_redstone_trim",
+      "predicate": {
+        "custom_model_data": 72
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 73
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 74
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 75
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 76
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 77
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 78
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 79
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 80
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 81
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 82
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 83
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 84
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 85
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 86
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 87
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 88
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 89
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_copper_trim",
+      "predicate": {
+        "custom_model_data": 90
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 91
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 92
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 93
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 94
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 95
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 96
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 97
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 98
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 99
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 100
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 101
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 102
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 103
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 104
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 105
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 106
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 107
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_gold_trim",
+      "predicate": {
+        "custom_model_data": 108
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 109
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 110
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 111
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 112
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 113
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 114
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 115
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 116
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 117
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 118
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 119
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 120
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 121
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 122
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 123
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 124
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 125
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_emerald_trim",
+      "predicate": {
+        "custom_model_data": 126
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 127
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 128
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 129
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 130
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 131
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 132
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 133
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 134
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 135
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 136
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 137
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 138
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 139
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 140
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 141
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 142
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 143
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_diamond_trim",
+      "predicate": {
+        "custom_model_data": 144
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 145
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 146
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 147
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 148
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 149
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 150
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 151
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 152
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 153
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 154
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 155
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 156
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 157
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 158
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 159
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 160
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 161
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_lapis_trim",
+      "predicate": {
+        "custom_model_data": 162
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 163
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 164
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 165
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 166
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 167
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 168
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 169
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 170
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 171
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 172
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 173
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 174
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 175
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 176
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 177
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 178
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 179
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_amethyst_trim",
+      "predicate": {
+        "custom_model_data": 180
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 181
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 182
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 183
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 184
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 185
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 186
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 187
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 188
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 189
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 190
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 191
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 192
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 193
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 194
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 195
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 196
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 197
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_armadillo_scute_trim",
+      "predicate": {
+        "custom_model_data": 198
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 199
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 200
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 201
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 202
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 203
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 204
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 205
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 206
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 207
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 208
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 209
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 210
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 211
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 212
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 213
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 214
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 215
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_blaze_rod_trim",
+      "predicate": {
+        "custom_model_data": 216
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 217
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 218
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 219
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 220
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 221
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 222
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 223
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 224
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 225
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 226
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 227
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 228
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 229
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 230
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 231
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 232
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 233
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_bone_trim",
+      "predicate": {
+        "custom_model_data": 234
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 235
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 236
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 237
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 238
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 239
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 240
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 241
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 242
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 243
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 244
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 245
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 246
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 247
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 248
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 249
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 250
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 251
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_breeze_rod_trim",
+      "predicate": {
+        "custom_model_data": 252
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 253
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 254
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 255
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 256
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 257
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 258
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 259
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 260
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 261
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 262
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 263
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 264
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 265
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 266
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 267
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 268
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 269
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_coal_trim",
+      "predicate": {
+        "custom_model_data": 270
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 271
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 272
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 273
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 274
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 275
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 276
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 277
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 278
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 279
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 280
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 281
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 282
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 283
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 284
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 285
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 286
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 287
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_dragon_breath_trim",
+      "predicate": {
+        "custom_model_data": 288
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 289
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 290
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 291
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 292
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 293
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 294
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 295
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 296
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 297
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 298
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 299
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 300
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 301
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 302
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 303
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 304
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 305
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_echo_shard_trim",
+      "predicate": {
+        "custom_model_data": 306
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 307
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 308
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 309
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 310
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 311
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 312
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 313
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 314
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 315
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 316
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 317
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 318
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 319
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 320
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 321
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 322
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 323
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_end_crystal_trim",
+      "predicate": {
+        "custom_model_data": 324
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 325
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 326
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 327
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 328
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 329
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 330
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 331
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 332
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 333
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 334
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 335
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 336
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 337
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 338
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 339
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 340
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 341
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_ender_pearl_trim",
+      "predicate": {
+        "custom_model_data": 342
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 343
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 344
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 345
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 346
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 347
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 348
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 349
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 350
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 351
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 352
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 353
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 354
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 355
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 356
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 357
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 358
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 359
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_experience_bottle_trim",
+      "predicate": {
+        "custom_model_data": 360
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 361
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 362
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 363
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 364
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 365
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 366
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 367
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 368
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 369
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 370
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 371
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 372
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 373
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 374
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 375
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 376
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 377
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_fire_charge_trim",
+      "predicate": {
+        "custom_model_data": 378
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 379
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 380
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 381
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 382
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 383
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 384
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 385
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 386
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 387
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 388
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 389
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 390
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 391
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 392
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 393
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 394
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 395
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_glow_ink_trim",
+      "predicate": {
+        "custom_model_data": 396
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 397
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 398
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 399
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 400
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 401
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 402
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 403
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 404
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 405
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 406
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 407
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 408
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 409
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 410
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 411
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 412
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 413
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_glowstone_trim",
+      "predicate": {
+        "custom_model_data": 414
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 415
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 416
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 417
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 418
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 419
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 420
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 421
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 422
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 423
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 424
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 425
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 426
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 427
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 428
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 429
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 430
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 431
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_gunpowder_trim",
+      "predicate": {
+        "custom_model_data": 432
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 433
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 434
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 435
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 436
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 437
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 438
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 439
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 440
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 441
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 442
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 443
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 444
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 445
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 446
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 447
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 448
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 449
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_heart_of_the_sea_trim",
+      "predicate": {
+        "custom_model_data": 450
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 451
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 452
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 453
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 454
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 455
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 456
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 457
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 458
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 459
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 460
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 461
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 462
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 463
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 464
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 465
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 466
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 467
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_honeycomb_trim",
+      "predicate": {
+        "custom_model_data": 468
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 469
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 470
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 471
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 472
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 473
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 474
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 475
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 476
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 477
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 478
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 479
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 480
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 481
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 482
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 483
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 484
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 485
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_leather_trim",
+      "predicate": {
+        "custom_model_data": 486
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 487
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 488
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 489
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 490
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 491
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 492
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 493
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 494
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 495
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 496
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 497
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 498
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 499
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 500
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 501
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 502
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 503
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_nautilus_trim",
+      "predicate": {
+        "custom_model_data": 504
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 505
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 506
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 507
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 508
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 509
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 510
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 511
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 512
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 513
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 514
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 515
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 516
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 517
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 518
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 519
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 520
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 521
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_nether_brick_trim",
+      "predicate": {
+        "custom_model_data": 522
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 523
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 524
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 525
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 526
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 527
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 528
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 529
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 530
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 531
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 532
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 533
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 534
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 535
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 536
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 537
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 538
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 539
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_nether_star_trim",
+      "predicate": {
+        "custom_model_data": 540
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 541
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 542
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 543
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 544
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 545
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 546
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 547
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 548
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 549
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 550
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 551
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 552
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 553
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 554
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 555
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 556
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 557
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_netherite_scrap_trim",
+      "predicate": {
+        "custom_model_data": 558
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 559
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 560
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 561
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 562
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 563
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 564
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 565
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 566
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 567
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 568
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 569
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 570
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 571
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 572
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 573
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 574
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 575
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_phantom_membrane_trim",
+      "predicate": {
+        "custom_model_data": 576
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 577
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 578
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 579
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 580
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 581
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 582
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 583
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 584
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 585
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 586
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 587
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 588
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 589
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 590
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 591
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 592
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 593
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_prismarine_crystals_trim",
+      "predicate": {
+        "custom_model_data": 594
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 595
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 596
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 597
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 598
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 599
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 600
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 601
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 602
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 603
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 604
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 605
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 606
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 607
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 608
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 609
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 610
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 611
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_prismarine_trim",
+      "predicate": {
+        "custom_model_data": 612
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 613
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 614
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 615
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 616
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 617
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 618
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 619
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 620
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 621
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 622
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 623
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 624
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 625
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 626
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 627
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 628
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 629
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_purpur_trim",
+      "predicate": {
+        "custom_model_data": 630
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 631
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 632
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 633
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 634
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 635
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 636
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 637
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 638
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 639
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 640
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 641
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 642
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 643
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 644
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 645
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 646
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 647
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_rabbit_hide_trim",
+      "predicate": {
+        "custom_model_data": 648
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 649
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 650
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 651
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 652
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 653
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 654
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 655
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 656
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 657
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 658
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 659
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 660
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 661
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 662
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 663
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 664
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 665
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_slime_trim",
+      "predicate": {
+        "custom_model_data": 666
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_sentry_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 667
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_vex_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 668
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wild_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 669
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_coast_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 670
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_dune_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 671
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_wayfinder_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 672
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_raiser_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 673
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_shaper_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 674
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_host_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 675
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_ward_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 676
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_silence_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 677
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_tide_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 678
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_snout_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 679
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_rib_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 680
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_eye_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 681
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_spire_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 682
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_flow_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 683
+      }
+    },
+    {
+      "model": "more_tool_trim:item/stone_shovel_bolt_and_turtle_scute_trim",
+      "predicate": {
+        "custom_model_data": 684
+      }
+    }
+  ]
+}
