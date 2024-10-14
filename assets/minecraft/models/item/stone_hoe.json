@@ -1,6 +1,8 @@
 {
   "parent": "minecraft:item/handheld",
-  "textures": "minecraft:item/stone_hoe",
+  "textures": {
+    "layer0": "minecraft:item/stone_hoe"
+  },
   "overrides": [
     {
       "model": "more_tool_trim:item/stone_hoe_sentry_and_quartz_trim",
