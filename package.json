@@ -1,7 +1,7 @@
 {
-    "name": "tool-trim-tp",
+    "name": "more-tool-trim-tp",
     "version": "1.0.0",
-    "description": "Resourcepack that works with Tool Trim DP",
+    "description": "Resourcepack that works with More Tool Trim DP",
     "main": "index.js",
     "scripts": {
       "generate": "tsx generator/index.ts"
