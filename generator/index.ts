@@ -103,7 +103,7 @@ function compareMaterial(material1: string, material2: string) {
 async function writeItemModels() {
   const promises: Promise<void>[] = []
   
-  await mkdir(`./generator/output/assets/minecraft/items`, { recursive: true })
+  await mkdir(`./generator/output/assets/minecraft/models/item`, { recursive: true })
 
   for (const tool of tools) {
     let [toolMaterial, toolName] = tool.split('_')
