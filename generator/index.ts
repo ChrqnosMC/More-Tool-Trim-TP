@@ -114,8 +114,6 @@ async function writeItemModels() {
       toolName = toolMaterial
       toolMaterial = ''
     }
-
-    await mkdir(`./generator/output/assets/more_tool_trim/models/item`, { recursive: true })
     
     const customModelDataCases: { model: { type: string, property: string, fallback: { type: string, model: string }, cases: any[] }, threshold: number }[] = []
     let counter = 1
@@ -134,21 +132,6 @@ async function writeItemModels() {
           },
           when: materialIndex < 11 ? `minecraft:${material}` : `more_tool_trim:${material}`
         })
-
-        const modelFile = compareMaterial(material, toolMaterial)
-          ? `./generator/output/assets/more_tool_trim/models/item/${tool}_${trim}_and_${material}_darker_trim.json`
-          : `./generator/output/assets/more_tool_trim/models/item/${tool}_${trim}_and_${material}_trim.json`
-        const modelTrim = compareMaterial(material, toolMaterial)
-          ? `more_tool_trim:trims/items/${toolName}_trim/${trim}_${material}_darker`
-          : `more_tool_trim:trims/items/${toolName}_trim/${trim}_${material}`
-        const modelContents = {
-          parent: 'minecraft:item/handheld',
-          textures: {
-            layer0: `minecraft:item/${tool}`,
-            layer1: modelTrim
-          }
-        }
-        promises.push(writeFile(modelFile, JSON.stringify(modelContents, null, 2)))
       }
 
       customModelDataCases.push({
