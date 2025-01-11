@@ -112,8 +112,6 @@ async function writeItemModels() {
       toolName = toolMaterial
       toolMaterial = ''
     }
-
-    await mkdir(`./generator/output/assets/more_tool_trim/models/item`, { recursive: true })
     
     const overrides: { model: string, predicate: { custom_model_data: number } }[] = []
     let counter = 1
@@ -127,27 +125,12 @@ async function writeItemModels() {
           model,
           predicate: { custom_model_data: counter++ }
         })
-
-        const modelFile = compareMaterial(material, toolMaterial)
-          ? `./generator/output/assets/more_tool_trim/models/item/${tool}_${trim}_and_${material}_darker_trim.json`
-          : `./generator/output/assets/more_tool_trim/models/item/${tool}_${trim}_and_${material}_trim.json`
-        const modelTrim = compareMaterial(material, toolMaterial)
-          ? `more_tool_trim:trims/items/${toolName}_trim/${trim}_${material}_darker`
-          : `more_tool_trim:trims/items/${toolName}_trim/${trim}_${material}`
-        const modelContents = {
-          parent: 'minecraft:item/handheld',
-          textures: {
-            layer0: `minecraft:item/${tool}`,
-            layer1: modelTrim
-          }
-        }
-        promises.push(writeFile(modelFile, JSON.stringify(modelContents, null, 2)))
       }
     }
 
-    const toolFile = `./generator/output/assets/minecraft/items/${tool}.json`
+    const toolFile = `./generator/output/assets/minecraft/models/item/${tool}.json`
     const toolContents = {
-      parent: 'minecraft:item/handled',
+      parent: 'minecraft:item/handheld',
       textures: {
         layer0: `minecraft:item/${tool}`
       },
